@@ -1,0 +1,2 @@
+webpackJsonp([1],{LbTx:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("这是更新界面")])},staticRenderFns:[]};var u=t("VU/8")({name:"newest",data:function(){return{}}},r,!1,function(e){t("m0qr")},null,null);n.default=u.exports},m0qr:function(e,n){}});
+//# sourceMappingURL=1.1b39814fa4ca5d6f2977.js.map
